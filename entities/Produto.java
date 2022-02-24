@@ -10,5 +10,6 @@ public class Produto {
     public double preco(){
         double result = custo + (custo*lucro);
         return result;
+        //
     }
 }
