@@ -12,7 +12,6 @@ public class AppPreco {
         Produto P;
         P = new Produto();
         
-        
         System.out.println("Qual o nome do produto?");
         P.descricao = sc.nextLine();
         System.out.println("Qual o custo do produto?");
